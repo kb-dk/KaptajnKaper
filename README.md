@@ -2,8 +2,8 @@
 Source Code of Peter Ole Frederiksens original Danish pirate game
 
 
-Peter Ole Frederiksen klassiske piratspil, Kaptajn Kaper i Kattet til PC DOS 2.0 fra 1985, udgives her under en GNU General Public License version 3 licens i samarbejde med Peter Ole Frederiksens to sønner, Jan Thorhauge Frederiksen og Morten Frederiksen.
-Kildekoden er doneret til Det Kgl. Bibliotek af Thorbjørn Stegelmann, som vi takker mange gange for at hjælpe med at sikre bevaringen af den digitale danske kultuarv for eftertiden.
+Peter Ole Frederiksens klassiske piratspil, Kaptajn Kaper i Kattegat til PC DOS 2.0 fra 1985, udgives her under en GNU General Public License version 3 licens i samarbejde med Peter Ole Frederiksens to sønner, Jan Thorhauge Frederiksen og Morten Frederiksen.
+Kildekoden er doneret til Det Kgl. Bibliotek af Thorbjørn Stegelmann, som vi takker mange gange for at hjælpe med at sikre bevaringen af den digitale danske kulturarv for eftertiden.
 
 Nedenfor er indholdet af Peter Ole Frederiksens egne instrukser fra disketten med spillets kildekode:
 
